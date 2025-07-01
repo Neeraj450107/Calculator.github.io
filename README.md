@@ -24,6 +24,7 @@ https://neeraj450107.github.io/Calculator.github.io/
 
 ## Demo
 
+![Image](https://github.com/user-attachments/assets/acd50684-841e-4965-bc98-eda77ba36b4d)
 
 
 
@@ -35,7 +36,7 @@ https://neeraj450107.github.io/Calculator.github.io/
 ## Screenshots
 
 
-
+![Image](https://github.com/user-attachments/assets/61a9d21d-3f9d-4045-af97-33eb5d3f1e51)
 
 ## Getting Started
 
